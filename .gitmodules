@@ -1,0 +1,3 @@
+[submodule "sub_test_3"]
+	path = sub_test_3
+	url = https://github.com/Fardas/sub_test_3
